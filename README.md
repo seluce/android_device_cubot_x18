@@ -9,7 +9,7 @@ Memory  | 3GB RAM
 Shipped Android Version | 7.0
 Storage | 32GB
 MicroSD | Up to 64GB
-Battery | Li-Pol 2800mAh battery
+Battery | Li-Pol 3200mAh battery
 Display | 720 x 1440 pixels, 5.7 inches
 Camera  | Main 16MP / Front 13MP, autofocus, LED flash
 
