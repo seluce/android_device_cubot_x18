@@ -205,4 +205,4 @@ BOARD_SEPOLICY_DIRS := \
 BOARD_SECCOMP_POLICY += device/CUBOT/X18/seccomp
 
 # build old-style zip files (required for ota updater)
-BLOCK_BASED_OTA := false
+BLOCK_BASED_OTA := true
